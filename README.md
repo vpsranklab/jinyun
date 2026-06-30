@@ -28,7 +28,7 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 ## 🌐 官方网站
 
-[锦云机场](https://w2.whengdl.com/#/register?code=aeDs9Tg6)
+[锦云.com](https://w2.whengdl.com/#/register?code=aeDs9Tg6)
 
 ## 🌍 节点地域
 
@@ -44,6 +44,41 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 - 🇮🇩 印度尼西亚
 - 🇹🇭 泰国
 - 🇻🇳 越南
+
+## **📶 节点测速**
+
+⌛️ 更新于 2026 年 6 月，测试工具 SpeedTest 为正版解锁。
+
+ℹ️ **仅对该次测速负责**。
+
+### 测试环境
+
+ISP：中国联通（北京） 1000 Mbps
+
+测试路由器：TP Link TL-XDR3230（Wi-Fi 6）
+
+测试设备：iPhone 13 Pro + Samsung Galaxy S24 Ultra + MacBook Pro M3 Max
+
+### SpeedTest.net 影片测试等级
+
+最高解析度：**2160p（4K）**
+
+载入时间：**6415ms**
+
+### SpeedTest.net 网络测试
+
+- 香港节点：延迟 82 ms，下载速率 800 Mbps，上传速率 50 Mbps，丢包率 0.0%
+- 台湾节点：延迟 54 ms，下载速率 818 Mbps，上传速率 50 Mbps，丢包率 0.0%
+- 日本节点：延迟 192ms，下载速率 820 Mbps，上传速率 50 Mbps，丢包率 0.0%
+- 新加坡节点：延迟 71ms，下载速率 828 Mbps，上传速率 50 Mbps，丢包率 0.0%
+
+### Fast.com 网络测试
+
+- 香港节点：延迟（未加载） 113 ms，延迟（已加载） 140 ms，下载速率 800 Mbps，上传速率 110 Mbps
+- 台湾节点：延迟（未加载） 150 ms，延迟（已加载） 159 ms，下载速率 140 Mbps，上传速率 370 Mbps
+- 日本节点：延迟（未加载） 165 ms，延迟（已加载） 199 ms，下载速率 1100 Mbps，上传速率 220 Mbps
+- 新加坡节点：延迟（未加载） 146 ms，延迟（已加载） 163 ms，下载速率 500 Mbps，上传速率 300 Mbps
+
 
 ## 🧾 订阅列表
 
@@ -78,4 +113,4 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 套餐方面，锦云机场提供每月 50GB、100GB、200GB 三档周期订阅，价格从 6 元/月起，不同套餐支持 2 至 10 台设备同时在线；同时也提供 500GB 不限时一次性订阅，适合低频长期备用。对于预算有限、轻量使用或希望寻找低价 IEPL 备用线路的用户来说，锦云机场是一个可以关注的选择。
 
-👉 官方网站：[锦云机场](https://w2.whengdl.com/#/register?code=aeDs9Tg6)
+👉 官方网站：[锦云.com](https://w2.whengdl.com/#/register?code=aeDs9Tg6)

@@ -12,7 +12,7 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 ---
 
-[锦云机场](https://w2.whengdl.com/#/register?code=aeDs9Tg6)是山水云旗下子品牌，主打高端 IEPL 专线，强调晚高峰稳定性、低丢包率以及流媒体/AI 平台解锁能力。锦云套餐入门价格低至 6 元/月，对学生党、新手用户以及轻量使用者比较友好。
+[锦云机场](https://jybdw1.wanhlj.com:8888/#/register?code=aeDs9Tg6)是山水云旗下子品牌，主打高端 IEPL 专线，强调晚高峰稳定性、低丢包率以及流媒体/AI 平台解锁能力。锦云套餐入门价格低至 6 元/月，对学生党、新手用户以及轻量使用者比较友好。
 
 锦云机场支持解锁 Netflix、Disney+ 等流媒体平台，以及 ChatGPT、Claude 等 AI 服务。节点覆盖香港、台湾、日本、美国、新加坡等热门地区，并支持部分小众地域，适合日常浏览、流媒体观看、AI 工具访问和轻量备用线路使用。
 
@@ -28,7 +28,7 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 ## 🌐 官方网站
 
-[锦云.com](https://w2.whengdl.com/#/register?code=aeDs9Tg6)
+[锦云.com](https://jybdw1.wanhlj.com:8888/#/register?code=aeDs9Tg6)
 
 ## 🌍 节点地域
 
@@ -113,4 +113,4 @@ ISP：中国联通（北京） 1000 Mbps
 
 套餐方面，锦云机场提供每月 50GB、100GB、200GB 三档周期订阅，价格从 6 元/月起，不同套餐支持 2 至 10 台设备同时在线；同时也提供 500GB 不限时一次性订阅，适合低频长期备用。对于预算有限、轻量使用或希望寻找低价 IEPL 备用线路的用户来说，锦云机场是一个可以关注的选择。
 
-👉 官方网站：[锦云.com](https://w2.whengdl.com/#/register?code=aeDs9Tg6)
+👉 官方网站：[锦云.com](https://jybdw1.wanhlj.com:8888/#/register?code=aeDs9Tg6)
